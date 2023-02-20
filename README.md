@@ -10,4 +10,4 @@ This repository is for storing the tasks for the project 2035
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&layout=compact)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gerakl1843&repo=CPPCourse2035)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gerakl1843&repo=CPPCourse2035)
